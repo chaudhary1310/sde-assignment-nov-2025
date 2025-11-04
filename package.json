@@ -1,0 +1,12 @@
+{
+  "name": "sde-assignment-nov-2025",
+  "version": "1.0.0",
+  "description": "Merges overlapping or near-overlapping time ranges within a threshold.",
+  "main": "my-module.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
